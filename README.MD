@@ -2,7 +2,7 @@
 # Todo Terminal
 Todo Terminal is todo-list app. You can add your works etc. and what you need it. Your tasks and infos will crypted by speacial hash format.  
 ## Installation
-1. Install the [GO](https://www.python.org/downloads/)
+1. Install the [PYTHON](https://www.python.org/downloads/)
 
 2. ```bash git clone https://github.com/Any-Sec/Todoterminal.git ```
 
