@@ -63,7 +63,7 @@ class UserFunc():
     
     
     
-    def RemoveData(self,ID:int | None = None):
+    def RemoveData(self,ID:int or None = None):
         """It removes the data "ID" number is ID  from db.json. 
         The default ID is last item.
         If you type to wrong ID number , it will remove last data. """
