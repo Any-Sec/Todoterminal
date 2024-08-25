@@ -4,7 +4,7 @@ Todo Terminal is todo-list app. You can add your works etc. and what you need it
 ## Installation
 1. Install the [PYTHON](https://www.python.org/downloads/)
 
-2. ```bash git clone https://github.com/Any-Sec/Todoterminal.git ```
+2. ```bash git clone https://github.com/yavuzkanat/Todoterminal.git ```
 
 
 ## Usage 
